@@ -1,2 +1,4 @@
-package com.logcursos.admin.catalogo.infrastructure;public class BuscaEmLarguraGrafo {
+package com.logcursos.admin.catalogo.infrastructure;
+
+public class BuscaEmLarguraGrafo {
 }
